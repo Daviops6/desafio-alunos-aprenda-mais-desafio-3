@@ -1,0 +1,1 @@
+select  nome, idade FROM alunos;
